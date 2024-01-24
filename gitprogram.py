@@ -1,4 +1,4 @@
-print("check number is positive , Neutral or negative")
+print("check number is positive")
 n=-2
 if n>0:
     print("positive")

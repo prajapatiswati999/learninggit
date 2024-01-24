@@ -6,3 +6,4 @@ elif n==0:
     print("Neutral")
 else:
     print("negative")
+print("end")
